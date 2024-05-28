@@ -79,7 +79,7 @@ export default {
 
         // Send email to backend server
         axios
-          .post("http://localhost:5000/submit-email", { email: this.email })
+          .post("http://18.144.136.180:5000/submit-email", { email: this.email })
           .then((response) => {
             console.log(response.data);
           })
