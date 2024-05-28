@@ -120,6 +120,10 @@ export default {
   align-items: center;
   padding: 20px;
   background-color: var(--light-color);
+
+@media (min-width: 300px) and (max-width: 380px) {
+  padding-top: 25vh !important; /* Ensure this rule is applied */
+}
 }
 
 .container {
@@ -203,3 +207,4 @@ export default {
   color: var(--success-color);
 }
 </style>
+
