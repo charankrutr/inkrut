@@ -9,14 +9,13 @@
           <!-- Replace with your LinkedIn icon -->
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="tel:+1234567890" class="footer-icon-link">
+        <a href="tel:+14085325078" class="footer-icon-link">
           <!-- Replace with your phone icon -->
           <i class="fas fa-phone"></i>
         </a>
-        <a href="https://wa.me/1234567890" class="footer-icon-link">
-          <!-- Replace with your WhatsApp icon -->
+        <!-- <a href="https://wa.me/1234567890" class="footer-icon-link">
           <i class="fab fa-whatsapp"></i>
-        </a>
+        </a> -->
       </div>
       <div class="copyright">
         Inkrut <span>&copy;</span> Copyright 2024. All rights reserved
